@@ -1,4 +1,4 @@
-# Semaphore CI for iOS
+# Semaphore CI for iOS.
 
 This example iOS application includes a fully configured CI pipeline demonstrating how to build, test, and generate App Store screenshots for an iOS app with [Semaphore CI](https://semaphoreci.com). This project requires Xcode 11, and is written in Swift 5.1 using SwiftUI.
 
